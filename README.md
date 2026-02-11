@@ -1,0 +1,1 @@
+This project studies the numerical stability of derivative estimation on noisy stock price time-series data. Using daily adjusted closing prices, we examine how different numerical methods respond to noise and smoothing. This project does not attempt price prediction or trading strategies.
